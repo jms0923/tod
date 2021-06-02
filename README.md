@@ -1,7 +1,7 @@
 <p align="center">
-<img src="./img/logo.PNG" />
+<p align="center"><img src="./img/logo.PNG" width="300" height="100"></p>
 
-**TOD** is large-scale high-resolution trash datasets for solving trash-detection problems. It was intended for general household goods. And dataset was classified based on guidelines for separating and discharging recyclables from the Ministry of Environment. There were 10 categories, and 33,434 objects were annotated for 4977 images with 1280 x 720 resolution.
+**TOD** is large-scale high-resolution trash object datasets for solving trash-detection problems. It was intended for general household goods. And dataset was classified based on guidelines for separating and discharging recyclables from the Ministry of Environment. There were 10 categories, and 33,434 objects were annotated for 4977 images with 1280 x 720 resolution.
 
 
 For convenience, annotations are provided in COCO data format.
